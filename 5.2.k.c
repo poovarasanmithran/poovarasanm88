@@ -2,7 +2,7 @@
 #include<conio.h>
 void main()
 {
-char a[20];
+char a[200];
 int n,i;
 printf(" enter  value:");
 scanf("%d",&n);
